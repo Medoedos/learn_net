@@ -2,6 +2,5 @@
 test
 test
 
-push test
 
-push test 2
+test push 3
